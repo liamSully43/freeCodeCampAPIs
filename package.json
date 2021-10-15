@@ -1,3 +1,9 @@
-{
-  "author": "Liam Sullivan"
+ {
+  "name": "fcc-apis-package-json",
+  "author": "Liam Sullivan",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamSully43/freeCodeCampAPIs.git"
+  }
 }
